@@ -1,2 +1,2 @@
 # CrackingTheCodingInterview_Solutions
-Contains solution to the "Cracking the coding Interview" questions !
+Contains solution to the "Cracking the coding Interview" questions in Python !
